@@ -15,6 +15,10 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
 * [fMRI mixed models using neuropointillist](#fmri-mixed-models-using-neuropointillist)
+* [O-Factor](#o-factor)
+* [PredictiveViz](#predictiveviz)
+* [Scatterbrain](#scatterbrain)
+* [NeuroImage](#neuroimage)
 
 
 ### Project template
@@ -94,7 +98,7 @@ sues
 
 **Name**: better-google \
 **Project url(s)**: https://github.com/tjlagrow/better-google , https://github.com/shreyaspadhy/easyhcp \
-**Contributors**: [Saige Ruthaford](https://github.com/saigerutherford), [Shreyas Padhy](https://github.com/shreyaspadhy), [Anita Keshavan](https://github.com/amsinha9), [Xavier Guell Paradis](https://github.com/xaviergp), [Theodore J. LaGrow](https://github.com/tjlagrow), [Patrick Beukema](https://github.com/pbeukema)\
+**Contributors**: [Saige Ruthaford](https://github.com/saigerutherford), [Shreyas Padhy](https://github.com/shreyaspadhy), [Anita Sinha](https://github.com/amsinha9), [Xavier Guell Paradis](https://github.com/xaviergp), [Theodore J. LaGrow](https://github.com/tjlagrow), [Patrick Beukema](https://github.com/pbeukema)\
 **Description of project**: U-nets on T1 to T2, and HCP interactive tool (waaaay-beta)\
 
 ### Parcellation Fragmenter
@@ -128,3 +132,44 @@ https://github.com/kdestasio/pybids \
 **Description of project**: Expanding and creating tutorials for [existing Neuropointillist project](https://github.com/IBIC/neuropointillist); adding some code to facilitate Neuropointillist use\
 **How to get involved**: Leave us feedback if you try the tutorials, and take a look at [our issues](https://github.com/rosali920/neuropointillist/issues) to see if you can help.
 
+### hacktrack
+
+**Name**: `hacktrack`  
+**Project url(s)**: https://github.com/rmarkello/hacktrack  
+**Contributors**: [Ross Markello](https://github.com/rmarkello), [Dan Gale](https://github.com/danjgale), and [Michael Notter](https://github.com/miykael)  
+**Description of project**: A meta-project for examining Neurohackademy by the (wildly oversimplified and non-representative) numbers
+**How to get involved**: If you want to explore the data check out the Binder link in the main repository! Play around with the data and if you're inspired enough to generate a pretty plot, raise an Issue on the repository and let us know!
+
+### O-Factor
+
+**Name**: O-Factor\
+**Project url**: https://github.com/srcole/o-factor \
+**Contributors**: 
+[Daniel Reznik](https://github.com/reznida), [Emily Wood](https://github.com/emilytwood), [Federico Adolfi](https://github.com/fedeadolfi), [Kristina Rapuano](https://github.com/kristinarapuano), [Mikella Green](https://github.com/mikellagreen), [Rosa Li](https://github.com/rosali920), [Rotem Botvinik-Nezer](https://github.com/rotemb9), [Scott Cole](https://github.com/srcole) \
+**Description of project**: Open-access articles were scraped from the PubMed Central API. Their full-text was searched for keywords (and phrases) indicative of code and data sharing. The prevalence of code and data sharing (and preregistration) was computed as a measure of the "openness" of the research published in that journal (it's "O-Factor"). \
+**How to get involved**: Check out our [issues on github](https://github.com/srcole/o-factor/issues) or create a new one. We're thrilled to welcome new contributors!
+
+### Loops are Evil!?
+
+**Name**: Loops are Evil!?\
+**Project url(s)**: [https://github.com/rsilva8/loops-are-evil](https://github.com/rsilva8/loops-are-evil)\
+**Contributors**: [Serge Koudoro](https://github.com/skoudoro), [Aurelio Cortese](https://github.com/Aureee), [Rogers Silva](https://github.com/rsilva8)\
+**Description of project**: Loops are Evil!? Avoid Loops!? We listen or read this affirmation everywhere. The goal is to learn Numpy advanced features and see the benefit/drawback. We decide to implement a denoising algorithm (non local means - 6 loops) without any loop.\
+**How to get involved**: Look at [our notebook](https://github.com/rsilva8/loops-are-evil) to try our study and do not hesitate to add more information!
+
+### PredictiveViz and Scatterbrain
+
+**Name**: PredictiveViz and Scatterbrain \
+**Project url(s)**: https://github.com/jcbeer/predictiveViz \
+**Project url(s)**: https://github.com/njvack/scatterize \
+**Contributors**: [Nate Vack](https://github.com/njvack), [Joanne Beer](https://github.com/jcbeer) \
+**Description of project**: Interactive brain viewer and scatterplot visualization of univariate and multivariate neuroimage analyses. \
+**How to get involved**: Contact us with any questions or suggestions.
+
+### NeuroImage
+
+**Name**: NeuroImage\
+**Project url(s)**: [https://github.com/akeshavan/neurobrain](https://github.com/akeshavan/neurobrain)\
+**Contributors**: Tal Yarkoni, Anisha Keshavan, Nate Vack\
+**Description of project**: NeuroImage is a next-gen web viewer for visualization of neuroimaging data. Or at least it will be, one day. Maybe. \
+**How to get involved**: Wait for some functional code to exist, then submit a PR!
