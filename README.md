@@ -5,7 +5,7 @@ This repository contains descriptions of, and links to, all projects created by 
 ## List of projects
 * [Project template](#project-template): Template to use when creating new projects
 * [Brain Age](#brain-age)
-* [NIPYPE pals: TVB](#nipype-pals-tvb)
+* [NIPYPE pals](#nipype-pals)
 * [ConvOuch](#convouch)
 * [study_forrest](#study_forrest)
 
@@ -29,7 +29,7 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: How old is your brain? The current project implements Support Vector Regression (SVR) to predict #brain-age from structural MRI and resting-state fMRI seperately in neurotypical and clinical populations.\
 **How to get involved**: Contact [Daniel Low](https://github.com/danielmlow)
 
-### NIPYPE pals: TVB 
+### NIPYPE pals 
 
 **Name**: The Nipype Pals Part 1: PALS  
 **Project url(s)**: https://github.com/npnl/pals  
