@@ -29,19 +29,19 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: How old is your brain? The current project implements Support Vector Regression (SVR) to predict #brain-age from structural MRI and resting-state fMRI seperately in neurotypical and clinical populations.\
 **How to get involved**: Contact [Daniel Low](https://github.com/danielmlow)
 
-### NIPYPE pals 
+### NIPYPE pals
 
-**Name**: The Nipype Pals Part 1: PALS  
-**Project url(s)**: https://github.com/npnl/pals  
-**Contributors**: [@kaoriito](https://github.com/kaoriito) [@joselise](https://github.com/joselise)  
-**Description of project**: We dockerized PALS with a GUI, refactored PALS with nipype (in progress), incorporated ni-learn for QC images.  
+**Name**: The Nipype Pals Part 1: PALS
+**Project url(s)**: https://github.com/npnl/pals
+**Contributors**: [@kaoriito](https://github.com/kaoriito) [@joselise](https://github.com/joselise)
+**Description of project**: We dockerized PALS with a GUI, refactored PALS with nipype (in progress), incorporated ni-learn for QC images.
 **How to get involved**: Check out our issues (more will be added soon!): https://github.com/npnl/pals/issues
 
-**Name**: The Nipype Pals Part 2: The Virtual Brain  
-**Project url(s)**: https://github.com/amandakeasson/tvb_nipype  
+**Name**: The Nipype Pals Part 2: The Virtual Brain
+**Project url(s)**: https://github.com/amandakeasson/tvb_nipype
 **Contributors**: [@axiezai](https://github.com/axiezai) [@yishuwei](https://github.com/yishuwei) [@amandakeasson](https
-://github.com/amandakeasson)  
-**Description of project**: We made a nipype workflow for The Virtual Brain  
+://github.com/amandakeasson)
+**Description of project**: We made a nipype workflow for The Virtual Brain
 **How to get involved**: Check out our issues (more will be added soon!): https://github.com/amandakeasson/tvb_nipype/is
 sues
 
@@ -58,7 +58,7 @@ sues
 **Name**: study_forrest\
 **Project url(s)**: http://studyforrest.org/
 **Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks), [Jin Cheong](https://github.com/jcheong0428), [Joao Guassi Moreira](https://github.com/jguassimoreira), Zheng Ma
-**Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology. 
+**Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology.
 
 ### nilearn_task_networks
 
@@ -66,3 +66,12 @@ sues
 **Project url(s)**: https://github.com/kfinc/nilearn_task_networks \
 **Contributors**: Josh Gray, Janelle Liu, Kamalaker Dadi, Karolina Finc, Ilkay Isik\
 **Description of project**: Building a pipeline and tutorial for task fMRI analysis from nistats to nilearn
+
+### MNI Atlas Reader
+
+**Name**: MNI Atlas Reader \
+**Project url(s)**: https://github.com/miykael/mni_atlas_reader \
+**Contributors**: [Dan Gale](https://github.com/danjgale), [Ross Markello
+](https://github.com/rmarkello), [Michael Notter](https://github.com/miykael)\
+**Description of project**: This package provides a Python interface for generating coordinate tables and region labels from fMRI statistical images.\
+**How to get involved**: Check out our [issues on github](https://github.com/miykael/mni_atlas_reader/issues) or create a new one. We're thrilled to welcome new contributors!
