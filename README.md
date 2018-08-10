@@ -7,6 +7,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Brain Age](#brain-age)
 * [NIPYPE pals: TVB](#nipype-pals-tvb)
 * [ConvOuch](#convouch)
+* [study_forrest](#study_forrest)
 
 
 ### Project template
