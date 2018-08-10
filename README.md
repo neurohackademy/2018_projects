@@ -12,6 +12,8 @@ This repository contains descriptions of, and links to, all projects created by 
 * [BIDSonym](#bidsonym)
 * [MNI Atlas Reader](#mni-atlas-reader)
 * [better-google](#better-google)
+* [Parcellation Fragmenter](#parcellation-fragmenter)
+* [bidsQC](#bidsqc)
 
 
 ### Project template
