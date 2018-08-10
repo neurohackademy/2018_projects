@@ -17,6 +17,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [O-Factor](#o-factor)
 * [PredictiveViz](#predictiveviz)
 * [Scatterbrain](#scatterbrain)
+* [NeuroImage](#neuroimage)
 
 
 
@@ -155,3 +156,11 @@ https://github.com/kdestasio/pybids \
 **Contributors**: [Nate Vack](https://github.com/njvack), [Joanne Beer](https://github.com/jcbeer) \
 **Description of project**: Interactive brain viewer and scatterplot visualization of univariate and multivariate neuroimage analyses. \
 **How to get involved**: Contact us with any questions or suggestions.
+
+### NeuroImage
+
+**Name**: NeuroImage\
+**Project url(s)**: [https://github.com/akeshavan/neurobrain](https://github.com/akeshavan/neurobrain)\
+**Contributors**: Tal Yarkoni, Anisha Keshavan, Nate Vack\
+**Description of project**: NeuroImage is a next-gen web viewer for visualization of neuroimaging data. Or at least it will be, one day. Maybe. \
+**How to get involved**: Wait for some functional code to exist, then submit a PR!
