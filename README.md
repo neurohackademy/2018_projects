@@ -48,5 +48,5 @@ When adding a new project to the listing, please copy and paste the template bel
 
 **Name**: study_forrest\
 **Project url(s)**: http://studyforrest.org/
-**Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks) [Jin Cheong] (https://github.com/jcheong0428), Zheng Ma
+**Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks), [Jin Cheong](https://github.com/jcheong0428), [Joao Guassi Moreira](https://github.com/jguassimoreira), Zheng Ma
 **Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology. 
