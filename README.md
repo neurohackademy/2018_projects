@@ -1,4 +1,4 @@
-i# Neurohackademy 2018 project directory
+# Neurohackademy 2018 project directory
 
 This repository contains descriptions of, and links to, all projects created by participants at [Neurohackademy](http://neurohackademy.org) 2018. If you're adding a new project, please use the template below.
 
