@@ -7,6 +7,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Brain Age](#brain-age)
 * [NIPYPE pals: TVB](#nipype-pals-tvb)
 * [ConvOuch](#convouch)
+* [study_forrest](#study_forrest)
 
 
 ### Project template
@@ -43,3 +44,10 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: Jarod Roland, Zheng Ma\
 **Description of project**: Train a simple convolutional neural network to classify brain CT images has having an intracranial hemorrhage or not. Determine and select usable scans and organize them in the BIDS format\
 **How to get involved**: Try the model code with your own data!
+
+### study_forrest
+
+**Name**: study_forrest\
+**Project url(s)**: http://studyforrest.org/
+**Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks), [Jin Cheong](https://github.com/jcheong0428), [Joao Guassi Moreira](https://github.com/jguassimoreira), Zheng Ma
+**Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology. 
