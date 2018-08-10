@@ -15,6 +15,9 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
 * [O-Factor](#o-factor)
+* [PredictiveViz](#PredictiveViz)
+* [Scatterbrain](#Scatterbrain)
+
 
 
 ### Project template
@@ -143,3 +146,13 @@ https://github.com/kdestasio/pybids \
 **Contributors**: [Serge Koudoro](https://github.com/skoudoro), [Aurelio Cortese](https://github.com/Aureee), [Rogers Silva](https://github.com/rsilva8)\
 **Description of project**: Loops are Evil!? Avoid Loops!? We listen or read this affirmation everywhere. The goal is to learn Numpy advanced features and see the benefit/drawback. We decide to implement a denoising algorithm (non local means - 6 loops) without any loop.\
 **How to get involved**: Look at [our notebook](https://github.com/rsilva8/loops-are-evil) to try our study and do not hesitate to add more information!
+
+### PredictiveViz
+### Scatterbrain
+
+**Name**: PredictiveViz and Scatterbrain \
+**Project url(s)**: https://github.com/jcbeer/predictiveViz \
+**Project url(s)**: https://github.com/njvack/scatterize \
+**Contributors**: [Nate Vack](https://github.com/njvack), [Joanne Beer](https://github.com/jcbeer) \
+**Description of project**: Interactive brain viewer and scatterplot visualization of univariate and multivariate neuroimage analyses. \
+**How to get involved**: Contact us with any questions or suggestions.
