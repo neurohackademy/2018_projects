@@ -84,3 +84,16 @@ sues
 ](https://github.com/rmarkello), [Michael Notter](https://github.com/miykael)\
 **Description of project**: This package provides a Python interface for generating coordinate tables and region labels from fMRI statistical images.\
 **How to get involved**: Check out our [issues on github](https://github.com/miykael/mni_atlas_reader/issues) or create a new one. We're thrilled to welcome new contributors!
+
+### bidsQC
+**Name**: bidsQC\
+**Project url(s)**: https://github.com/kdestasio/bidsQC \
+https://github.com/kdestasio/pybids \
+**Contributors**: 
+[Krista DeStasio](https://github.com/kdestasio), [Kristian Eschenburg](https://github.com/kristianeschenburg), [James Kent](https://github.com/jdkent), [Lee Tirrell](https://github.com/ltirrell), [Kirstie Whitaker](https://github.com/KirstieJane), [Tal Yarkoni](https://github.com/tyarkoni) \
+**Description of project**: Add a `validate_sequences()` module to pybids that creates user-friendly summary data frames to check whether a BIDS data set:  
+1. Contains any files with duplicate content
+2. Is missing files that are expected to exist
+3. Has more files than are expected for a given subject \
+
+**How to get involved**: Try bidsQC on your data set and let us know how it works!
