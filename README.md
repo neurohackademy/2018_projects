@@ -119,6 +119,14 @@ https://github.com/kdestasio/pybids \
 
 **How to get involved**: Try bidsQC on your data set and let us know how it works!
 
+### hacktrack
+
+**Name**: `hacktrack`  
+**Project url(s)**: https://github.com/rmarkello/hacktrack  
+**Contributors**: [Ross Markello](https://github.com/rmarkello), [Dan Gale](https://github.com/danjgale), and [Michael Notter](https://github.com/miykael)  
+**Description of project**: A meta-project for examining Neurohackademy by the (wildly oversimplified and non-representative) numbers
+**How to get involved**: If you want to explore the data check out the Binder link in the main repository! Play around with the data and if you're inspired enough to generate a pretty plot, raise an Issue on the repository and let us know!
+
 ### O-Factor
 
 **Name**: O-Factor\
