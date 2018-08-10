@@ -14,7 +14,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [better-google](#better-google)
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
-* [O-Factor](#ofactor)
+* [O-Factor](#o-factor)
 
 
 ### Project template
@@ -126,4 +126,4 @@ https://github.com/kdestasio/pybids \
 **Contributors**: 
 [Daniel Reznik](https://github.com/reznida), [Emily Wood](https://github.com/emilytwood), [Federico Adolfi](https://github.com/fedeadolfi), [Kristina Rapuano](https://github.com/kristinarapuano), [Mikella Green](https://github.com/mikellagreen), [Rosa Li](https://github.com/rosali920), [Rotem Botvinik-Nezer](https://github.com/rotemb9), [Scott Cole](https://github.com/srcole)
 **Description of project**: Open-access articles were scraped from the PubMed Central API. Their full-text was searched for keywords (and phrases) indicative of code and data sharing. The prevalence of code and data sharing (and preregistration) was computed as a measure of the "openness" of the research published in that journal (it's "O-Factor").
-**How to get involved**: Check out our [issues on github](https://github.com/miykael/mni_atlas_reader/issues) or create a new one. We're thrilled to welcome new contributors!
+**How to get involved**: Check out our [issues on github](https://github.com/srcole/o-factor/issues) or create a new one. We're thrilled to welcome new contributors!
