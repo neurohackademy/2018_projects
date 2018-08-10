@@ -84,3 +84,11 @@ sues
 ](https://github.com/rmarkello), [Michael Notter](https://github.com/miykael)\
 **Description of project**: This package provides a Python interface for generating coordinate tables and region labels from fMRI statistical images.\
 **How to get involved**: Check out our [issues on github](https://github.com/miykael/mni_atlas_reader/issues) or create a new one. We're thrilled to welcome new contributors!
+
+
+### better-google
+
+**Name**: better-google \
+**Project url(s)**: https://github.com/tjlagrow/better-google , https://github.com/shreyaspadhy/easyhcp \
+**Contributors**: [Saige](https://github.com/saigerutherford), [Shreyas](https://github.com/shreyaspadhy), [Anita](https://github.com/amsinha9), [Xavier](https://github.com/xaviergp), [TJ LaGrow](https://github.com/tjlagrow) \
+**Description of project**: U-nets on T1 to T2, and HCP interactive tool (waaaay-beta)\
