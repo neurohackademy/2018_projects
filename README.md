@@ -18,17 +18,17 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ### Projects 
 
-**Name**: The Nipype Pals Part 1: PALS 
+**Name**: The Nipype Pals Part 1: PALS  
 **Project url(s)**: https://github.com/npnl/pals  
 **Contributors**: [@kaoriito](https://github.com/kaoriito) [@joselise](https://github.com/joselise)  
-**Description of project**: We dockerized PALS with a GUI, refactored PALS with nipype (in progress), incorporated ni-learn for QC images.
+**Description of project**: We dockerized PALS with a GUI, refactored PALS with nipype (in progress), incorporated ni-learn for QC images.  
 **How to get involved**: Check out our issues (more will be added soon!): https://github.com/npnl/pals/issues
 
-**Name**: The Nipype Pals Part 2: The Virtual Brain
-**Project url(s)**: https://github.com/amandakeasson/tvb_nipype
+**Name**: The Nipype Pals Part 2: The Virtual Brain  
+**Project url(s)**: https://github.com/amandakeasson/tvb_nipype  
 **Contributors**: [@axiezai](https://github.com/axiezai) [@yishuwei](https://github.com/yishuwei) [@amandakeasson](https
-://github.com/amandakeasson)
-**Description of project**: We made a nipype workflow for The Virtual Brain
+://github.com/amandakeasson)  
+**Description of project**: We made a nipype workflow for The Virtual Brain  
 **How to get involved**: Check out our issues (more will be added soon!): https://github.com/amandakeasson/tvb_nipype/is
 sues
 
