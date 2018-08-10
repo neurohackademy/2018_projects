@@ -14,6 +14,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [better-google](#better-google)
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
+* [O-Factor](#o-factor)
 
 
 ### Project template
@@ -118,10 +119,19 @@ https://github.com/kdestasio/pybids \
 
 **How to get involved**: Try bidsQC on your data set and let us know how it works!
 
-## hacktrack
+### hacktrack
 
 **Name**: `hacktrack`  
 **Project url(s)**: https://github.com/rmarkello/hacktrack  
 **Contributors**: [Ross Markello](https://github.com/rmarkello), [Dan Gale](https://github.com/danjgale), and [Michael Notter](https://github.com/miykael)  
 **Description of project**: A meta-project for examining Neurohackademy by the (wildly oversimplified and non-representative) numbers
 **How to get involved**: If you want to explore the data check out the Binder link in the main repository! Play around with the data and if you're inspired enough to generate a pretty plot, raise an Issue on the repository and let us know!
+
+### O-Factor
+
+**Name**: O-Factor\
+**Project url**: https://github.com/srcole/o-factor \
+**Contributors**: 
+[Daniel Reznik](https://github.com/reznida), [Emily Wood](https://github.com/emilytwood), [Federico Adolfi](https://github.com/fedeadolfi), [Kristina Rapuano](https://github.com/kristinarapuano), [Mikella Green](https://github.com/mikellagreen), [Rosa Li](https://github.com/rosali920), [Rotem Botvinik-Nezer](https://github.com/rotemb9), [Scott Cole](https://github.com/srcole) \
+**Description of project**: Open-access articles were scraped from the PubMed Central API. Their full-text was searched for keywords (and phrases) indicative of code and data sharing. The prevalence of code and data sharing (and preregistration) was computed as a measure of the "openness" of the research published in that journal (it's "O-Factor"). \
+**How to get involved**: Check out our [issues on github](https://github.com/srcole/o-factor/issues) or create a new one. We're thrilled to welcome new contributors!
