@@ -8,8 +8,9 @@ This repository contains descriptions of, and links to, all projects created by 
 * [NIPYPE pals](#nipype-pals)
 * [ConvOuch](#convouch)
 * [study_forrest](#study_forrest)
-* [nilearn_task_networks](nilearn_task_networks)
-* [BIDSonym](bidsonym)
+* [nilearn_task_networks](#nilearn_task_networks)
+* [BIDSonym](#bidsonym)
+* [MNI Atlas Reader](#mni-atlas-reader)
 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
