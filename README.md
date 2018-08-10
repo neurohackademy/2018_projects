@@ -11,6 +11,8 @@ This repository contains descriptions of, and links to, all projects created by 
 * [nilearn_task_networks](#nilearn_task_networks)
 * [BIDSonym](#bidsonym)
 * [MNI Atlas Reader](#mni-atlas-reader)
+* [better-google](#better-google)
+
 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
