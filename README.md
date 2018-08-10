@@ -1,4 +1,4 @@
-i# Neurohackademy 2018 project directory
+# Neurohackademy 2018 project directory
 
 This repository contains descriptions of, and links to, all projects created by participants at [Neurohackademy](http://neurohackademy.org) 2018. If you're adding a new project, please use the template below.
 
@@ -8,7 +8,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [NIPYPE pals](#nipype-pals)
 * [ConvOuch](#convouch)
 * [study_forrest](#study_forrest)
-
+* [nilearn_task_networks](nilearn_task_networks)
 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
