@@ -135,3 +135,11 @@ https://github.com/kdestasio/pybids \
 [Daniel Reznik](https://github.com/reznida), [Emily Wood](https://github.com/emilytwood), [Federico Adolfi](https://github.com/fedeadolfi), [Kristina Rapuano](https://github.com/kristinarapuano), [Mikella Green](https://github.com/mikellagreen), [Rosa Li](https://github.com/rosali920), [Rotem Botvinik-Nezer](https://github.com/rotemb9), [Scott Cole](https://github.com/srcole) \
 **Description of project**: Open-access articles were scraped from the PubMed Central API. Their full-text was searched for keywords (and phrases) indicative of code and data sharing. The prevalence of code and data sharing (and preregistration) was computed as a measure of the "openness" of the research published in that journal (it's "O-Factor"). \
 **How to get involved**: Check out our [issues on github](https://github.com/srcole/o-factor/issues) or create a new one. We're thrilled to welcome new contributors!
+
+### Loops are Evil!?
+
+**Name**: Loops are Evil!?\
+**Project url(s)**: [https://github.com/rsilva8/loops-are-evil](https://github.com/rsilva8/loops-are-evil)\
+**Contributors**: [Serge Koudoro](https://github.com/skoudoro), [Aurelio Cortese](https://github.com/Aureee), [Rogers Silva](https://github.com/rsilva8)\
+**Description of project**: Loops are Evil!? Avoid Loops!? We listen or read this affirmation everywhere. The goal is to learn Numpy advanced features and see the benefit/drawback. We decide to implement a denoising algorithm (non local means - 6 loops) without any loop.\
+**How to get involved**: Look at [our notebook](https://github.com/rsilva8/loops-are-evil) to try our study and do not hesitate to add more information!
