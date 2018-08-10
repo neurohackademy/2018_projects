@@ -9,8 +9,8 @@ This repository contains descriptions of, and links to, all projects created by 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
 
-**Name**: [project name]\
-**Project url(s)**: [link to GitHub repo or other resources]\
-**Contributors**: [list of people involved]\
-**Description of project**: [a few sentences describing the project]\
-**How to get involved**: [optional explanation of how one can get involved in the project]
+**Name**: ConvOuch\
+**Project url(s)**: https://github.com/jarodroland/ConvOuch \
+**Contributors**: Jarod Roland, Zheng Ma\
+**Description of project**: Train a simple convolutional neural network to classify brain CT images has having an intracranial hemorrhage or not. Determine and select usable scans and organize them in the BIDS format\
+**How to get involved**: Try the model code with your own data!
