@@ -9,6 +9,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [ConvOuch](#convouch)
 * [study_forrest](#study_forrest)
 * [nilearn_task_networks](nilearn_task_networks)
+* [BIDSonym](bidsonym)
 
 ### Project template
 When adding a new project to the listing, please copy and paste the template below.
@@ -66,3 +67,10 @@ sues
 **Project url(s)**: https://github.com/kfinc/nilearn_task_networks \
 **Contributors**: Josh Gray, Janelle Liu, Kamalaker Dadi, Karolina Finc, Ilkay Isik\
 **Description of project**: Building a pipeline and tutorial for task fMRI analysis from nistats to nilearn
+
+### bidsonym
+
+**Name**: BIDSonym\
+**Project url(s)**: https://github.com/PeerHerholz/BIDSonym, https://hub.docker.com/r/peerherholz/bidsonym/, https://osf.io/x4dku/ \
+**Contributors**: Rita Ludwig, Peer Herholz\
+**Description of project**: a BIDS app for de-identification of neuroimaging data
