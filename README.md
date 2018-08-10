@@ -1,4 +1,4 @@
-# Neurohackademy 2018 project directory
+i# Neurohackademy 2018 project directory
 
 This repository contains descriptions of, and links to, all projects created by participants at [Neurohackademy](http://neurohackademy.org) 2018. If you're adding a new project, please use the template below.
 
@@ -59,3 +59,10 @@ sues
 **Project url(s)**: http://studyforrest.org/
 **Contributors**: Aya Ben-yakov, [Jeff Brooks](https://github.com/jeffreyallenbrooks), [Jin Cheong](https://github.com/jcheong0428), [Joao Guassi Moreira](https://github.com/jguassimoreira), Zheng Ma
 **Description of project**: Broadly, examine how neural representations of characters and emotions are shared between observers, change with experience, and track with other aspects of physiology. 
+
+### nilearn_task_networks
+
+**Name**: nilearn_task_networks\
+**Project url(s)**: https://github.com/kfinc/nilearn_task_networks \
+**Contributors**: Josh Gray, Janelle Liu, Kamalaker Dadi, Karolina Finc, Ilkay Isik\
+**Description of project**: Building a pipeline and tutorial for task fMRI analysis from nistats to nilearn
