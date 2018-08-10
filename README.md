@@ -85,7 +85,16 @@ sues
 **Description of project**: This package provides a Python interface for generating coordinate tables and region labels from fMRI statistical images.\
 **How to get involved**: Check out our [issues on github](https://github.com/miykael/mni_atlas_reader/issues) or create a new one. We're thrilled to welcome new contributors!
 
+### Parcellation Fragmenter
+
+**Name**: Parcellation Fragmenter \
+**Project url(s)**: https://github.com/miykael/parcellation_fragmenter \
+**Contributors**: [Kristian Eschenburg](https://github.com/kristianeschenburg), [Claudio Toro](https://github.com/ctoroserey), [Amanda Sidwell](https://github.com/asidwell) and [Michael Notter](https://github.com/miykael)\
+**Description of project**: Fragments a surface mesh into N-equally sized annotation parcels. Besides looking beautiful, such surface parcellation could be used as feature extract for machine learning or functional connectivity approaches.\
+**How to get involved**: Check out our [issues on github](https://github.com/miykael/parcellation_fragmenter/issues) or create a new one. We're thrilled to welcome new contributors!
+
 ### bidsQC
+
 **Name**: bidsQC\
 **Project url(s)**: https://github.com/kdestasio/bidsQC \
 https://github.com/kdestasio/pybids \
