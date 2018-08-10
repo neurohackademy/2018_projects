@@ -93,7 +93,7 @@ sues
 
 **Name**: better-google \
 **Project url(s)**: https://github.com/tjlagrow/better-google , https://github.com/shreyaspadhy/easyhcp \
-**Contributors**: [Saige](https://github.com/saigerutherford), [Shreyas](https://github.com/shreyaspadhy), [Anita](https://github.com/amsinha9), [Xavier](https://github.com/xaviergp), [TJ LaGrow](https://github.com/tjlagrow) \
+**Contributors**: [Saige Ruthaford](https://github.com/saigerutherford), [Shreyas Padhy](https://github.com/shreyaspadhy), [Anita Keshavan](https://github.com/amsinha9), [Xavier Guell Paradis](https://github.com/xaviergp), [Theodore J. LaGrow](https://github.com/tjlagrow), [Patrick Beukema](https://github.com/pbeukema)\
 **Description of project**: U-nets on T1 to T2, and HCP interactive tool (waaaay-beta)\
 
 ### Parcellation Fragmenter
