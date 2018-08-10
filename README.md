@@ -14,11 +14,11 @@ This repository contains descriptions of, and links to, all projects created by 
 * [better-google](#better-google)
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
+* [fMRI mixed models using neuropointillist](#fmri-mixed-models-using-neuropointillist)
 * [O-Factor](#o-factor)
 * [PredictiveViz](#predictiveviz)
 * [Scatterbrain](#scatterbrain)
 * [NeuroImage](#neuroimage)
-
 
 
 ### Project template
@@ -122,6 +122,15 @@ https://github.com/kdestasio/pybids \
 3. Has more files than are expected for a given subject \
 
 **How to get involved**: Try bidsQC on your data set and let us know how it works!
+
+
+### fMRI mixed models using Neuropointillist
+
+**Name**: fMRI mixed models using Neuropointillist\
+**Project url(s)**: [GitHub repo](https://github.com/rosali920/neuropointillist)\
+**Contributors**: [Emily Wood](https://github.com/emilytwood), [Rebecca Martin](https://github.com/beckmart), [Rosa Li](https://github.com/rosali920)\
+**Description of project**: Expanding and creating tutorials for [existing Neuropointillist project](https://github.com/IBIC/neuropointillist); adding some code to facilitate Neuropointillist use\
+**How to get involved**: Leave us feedback if you try the tutorials, and take a look at [our issues](https://github.com/rosali920/neuropointillist/issues) to see if you can help.
 
 ### hacktrack
 
