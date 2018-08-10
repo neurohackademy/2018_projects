@@ -15,8 +15,8 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
 * [O-Factor](#o-factor)
-* [PredictiveViz](#PredictiveViz)
-* [Scatterbrain](#Scatterbrain)
+* [PredictiveViz](#predictiveviz)
+* [Scatterbrain](#scatterbrain)
 
 
 
