@@ -14,7 +14,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [better-google](#better-google)
 * [Parcellation Fragmenter](#parcellation-fragmenter)
 * [bidsQC](#bidsqc)
-* [fMRI mixed models using neuropointillist](#fMRI-mixed-models-using-neuropointillist)
+* [fMRI mixed models using neuropointillist](#fmri-mixed-models-using-neuropointillist)
 
 
 ### Project template
