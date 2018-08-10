@@ -147,8 +147,7 @@ https://github.com/kdestasio/pybids \
 **Description of project**: Loops are Evil!? Avoid Loops!? We listen or read this affirmation everywhere. The goal is to learn Numpy advanced features and see the benefit/drawback. We decide to implement a denoising algorithm (non local means - 6 loops) without any loop.\
 **How to get involved**: Look at [our notebook](https://github.com/rsilva8/loops-are-evil) to try our study and do not hesitate to add more information!
 
-### PredictiveViz
-### Scatterbrain
+### PredictiveViz and Scatterbrain
 
 **Name**: PredictiveViz and Scatterbrain \
 **Project url(s)**: https://github.com/jcbeer/predictiveViz \
