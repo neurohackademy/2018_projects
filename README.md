@@ -29,8 +29,7 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: [@axiezai](https://github.com/axiezai) [@yishuwei](https://github.com/yishuwei) [@amandakeasson](https
 ://github.com/amandakeasson)  
 **Description of project**: We made a nipype workflow for The Virtual Brain  
-**How to get involved**: Check out our issues (more will be added soon!): https://github.com/amandakeasson/tvb_nipype/is
-sues
+**How to get involved**: Check out our issues (more will be added soon!): https://github.com/amandakeasson/tvb_nipype/issues  
 
 **Name**: ConvOuch\
 **Project url(s)**: https://github.com/jarodroland/ConvOuch \
