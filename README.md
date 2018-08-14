@@ -113,7 +113,7 @@ When adding a new project to the listing, please copy and paste the template bel
 **Name**: bidsQC\
 **Project url(s)**: https://github.com/kdestasio/bidsQC \
 https://github.com/kdestasio/pybids \
-**Contributors**: 
+**Contributors**:
 [Krista DeStasio](https://github.com/kdestasio), [Kristian Eschenburg](https://github.com/kristianeschenburg), [James Kent](https://github.com/jdkent), [Lee Tirrell](https://github.com/ltirrell), [Kirstie Whitaker](https://github.com/KirstieJane), [Tal Yarkoni](https://github.com/tyarkoni) \
 **Description of project**: Add a `validate_sequences()` module to pybids that creates user-friendly summary data frames to check whether a BIDS data set:  
 1. Contains any files with duplicate content
@@ -143,7 +143,7 @@ https://github.com/kdestasio/pybids \
 
 **Name**: O-Factor\
 **Project url**: https://github.com/srcole/o-factor \
-**Contributors**: 
+**Contributors**:
 [Daniel Reznik](https://github.com/reznida), [Emily Wood](https://github.com/emilytwood), [Federico Adolfi](https://github.com/fedeadolfi), [Kristina Rapuano](https://github.com/kristinarapuano), [Mikella Green](https://github.com/mikellagreen), [Rosa Li](https://github.com/rosali920), [Rotem Botvinik-Nezer](https://github.com/rotemb9), [Scott Cole](https://github.com/srcole) \
 **Description of project**: Open-access articles were scraped from the PubMed Central API. Their full-text was searched for keywords (and phrases) indicative of code and data sharing. The prevalence of code and data sharing (and preregistration) was computed as a measure of the "openness" of the research published in that journal (it's "O-Factor"). \
 **How to get involved**: Check out our [issues on github](https://github.com/srcole/o-factor/issues) or create a new one. We're thrilled to welcome new contributors!
@@ -173,8 +173,10 @@ https://github.com/kdestasio/pybids \
 **Description of project**: NeuroImage is a next-gen web viewer for visualization of neuroimaging data. Or at least it will be, one day. Maybe. \
 **How to get involved**: Wait for some functional code to exist, then submit a PR!
 
-**Name**: [Paperwiki](https://paperwiki.herokuapp.com/)\
-**Project url(s)**: (https://github.com/jcheong0428/paperwiki)[https://github.com/jcheong0428/paperwiki]\
-**Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428)\
+### PaperWiki
+
+**Name**: [PaperWiki](https://paperwiki.herokuapp.com/)\
+**Project url(s)**: [https://github.com/jcheong0428/paperwiki](https://github.com/jcheong0428/paperwiki)\  
+**Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428)\  
 **Description of project**: Create a Wikipedia for academic papers with a discussion forum \
 **How to get involved**: App is in early stages so any suggestions or contributions will be helpful. Generating wikipages for articles will also be helpful as the goal is to create a crowdsourced knowledgebase.
