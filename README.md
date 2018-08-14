@@ -175,8 +175,8 @@ https://github.com/kdestasio/pybids \
 
 ### PaperWiki
 
-**Name**: [PaperWiki](https://paperwiki.herokuapp.com/)\
-**Project url(s)**: [https://github.com/jcheong0428/paperwiki](https://github.com/jcheong0428/paperwiki)\
-**Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428)\
+**Name**: [PaperWiki](https://paperwiki.herokuapp.com/) \
+**Project url(s)**: [https://github.com/jcheong0428/paperwiki](https://github.com/jcheong0428/paperwiki) \
+**Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428) \
 **Description of project**: Create a Wikipedia for academic papers with a discussion forum \
 **How to get involved**: App is in early stages so any suggestions or contributions will be helpful. Generating wikipages for articles will also be helpful as the goal is to create a crowdsourced knowledgebase.
