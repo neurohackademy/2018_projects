@@ -19,6 +19,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [PredictiveViz](#predictiveviz)
 * [Scatterbrain](#scatterbrain)
 * [NeuroImage](#neuroimage)
+* [PaperWiki](#paperwiki)
 
 
 ### Project template
@@ -171,3 +172,9 @@ https://github.com/kdestasio/pybids \
 **Contributors**: Tal Yarkoni, Anisha Keshavan, Nate Vack\
 **Description of project**: NeuroImage is a next-gen web viewer for visualization of neuroimaging data. Or at least it will be, one day. Maybe. \
 **How to get involved**: Wait for some functional code to exist, then submit a PR!
+
+**Name**: [Paperwiki](https://paperwiki.herokuapp.com/)\
+**Project url(s)**: (https://github.com/jcheong0428/paperwiki)[https://github.com/jcheong0428/paperwiki]\
+**Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428)\
+**Description of project**: Create a Wikipedia for academic papers with a discussion forum \
+**How to get involved**: App is in early stages so any suggestions or contributions will be helpful. Generating wikipages for articles will also be helpful as the goal is to create a crowdsourced knowledgebase.
