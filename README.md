@@ -202,5 +202,5 @@ https://github.com/kdestasio/pybids \
    - [Amanda Easson](https://github.com/amandakeasson) [#67](https://github.com/HBClab/NiBetaSeries/pull/67) \
 *Note*: These contributions are only the electronic footprints of the help I've recieved.
 While decent, it does not represent all the offline help I've recieved from these individuals as well, so keep that in mind. \
-**Description of project**: #taskingstate, calculate correlations of acivity between brain regions during a task. \
+**Description of project**: #taskingstate, calculate correlations of activity between brain regions during a task. \
 **How to get involved**: Read our [contributing page](https://nibetaseries.readthedocs.io/en/latest/contributing.html)!
