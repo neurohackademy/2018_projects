@@ -20,6 +20,7 @@ This repository contains descriptions of, and links to, all projects created by 
 * [Scatterbrain](#scatterbrain)
 * [NeuroImage](#neuroimage)
 * [PaperWiki](#paperwiki)
+* [NiBetaSeries](#nibetaseries)
 
 
 ### Project template
@@ -180,3 +181,26 @@ https://github.com/kdestasio/pybids \
 **Contributors**: [Jin Hyun Cheong](https://github.com/jcheong0428) \
 **Description of project**: Create a Wikipedia for academic papers with a discussion forum \
 **How to get involved**: App is in early stages so any suggestions or contributions will be helpful. Generating wikipages for articles will also be helpful as the goal is to create a crowdsourced knowledgebase.
+
+### NiBetaSeries
+
+**Name**: [NiBetaSeries](https://nibetaseries.readthedocs.io/en/latest/) \
+**Project url(s)**: [github](https://github.com/HBClab/NiBetaSeries), [readthedocs](https://nibetaseries.readthedocs.io/en/latest/) \
+**Contributers** : [contributer's page](https://github.com/HBClab/NiBetaSeries/graphs/contributors)
+   - [James Kent](https://github.com/jdkent)
+   - [Krista DeStasio](https://github.com/kdestasio) [#52](https://github.com/HBClab/NiBetaSeries/pull/52), [#56](https://github.com/HBClab/NiBetaSeries/pull/56), [#57](https://github.com/HBClab/NiBetaSeries/pull/57), [#58](https://github.com/HBClab/NiBetaSeries/issues/58)
+   - [Rita Ludwig](https://github.com/rxqx) [#40](https://github.com/HBClab/NiBetaSeries/pull/40), [#53](https://github.com/HBClab/NiBetaSeries/pull/53)
+   - [Rebecca Martin](https://github.com/beckmart) [#50](https://github.com/HBClab/NiBetaSeries/pull/50)
+   - [Claudio Toro](https://github.com/ctoroserey) [#41](https://github.com/HBClab/NiBetaSeries/pull/41)
+   - [Kristian Eschenburg](https://github.com/kristianeschenburg) [#65](https://github.com/HBClab/NiBetaSeries/pull/65)
+   - [Peer Herholz](https://github.com/PeerHerholz) [#12](https://github.com/HBClab/NiBetaSeries/issues/12), [#28](https://github.com/HBClab/NiBetaSeries/issues/28), [#66](https://github.com/HBClab/NiBetaSeries/pull/66)
+   - [Janelle Liu](https://github.com/janelleliu) [#38](https://github.com/HBClab/NiBetaSeries/pull/38), [#55](https://github.com/HBClab/NiBetaSeries/pull/55)
+   - [Ariel Rokem](https://github.com/arokem) [#60](https://github.com/HBClab/NiBetaSeries/pull/60)
+   - [Rogers Silva](https://github.com/rsilva8) [#27](https://github.com/HBClab/NiBetaSeries/issues/27)
+   - [Daniel Low](https://github.com/danielmlow) [#59](https://github.com/HBClab/NiBetaSeries/issues/59)
+   - [Kirstie Whitaker](https://github.com/KirstieJane) [#42](https://github.com/HBClab/NiBetaSeries/pull/42), [#63](https://github.com/HBClab/NiBetaSeries/pull/63)
+   - [Amanda Easson](https://github.com/amandakeasson) [#67](https://github.com/HBClab/NiBetaSeries/pull/67) \
+*Note*: These contributions are only the electronic footprints of the help I've recieved.
+While decent, it does not represent all the offline help I've recieved from these individuals as well, so keep that in mind. \
+**Description of project**: #taskingstate, calculate correlations of acivity between brain regions during a task. \
+**How to get involved**: Read our [contributing page](https://nibetaseries.readthedocs.io/en/latest/contributing.html)!
